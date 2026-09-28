@@ -45,4 +45,4 @@ AI_data-mining_ML/
 
 ## 👤 Auteur
 
-**ItsHaname** — étudiant(e) à la FSSM, Université Cadi Ayyad
+**ItsHaname** — étudiante à la FSSM, Université Cadi Ayyad
