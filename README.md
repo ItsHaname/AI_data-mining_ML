@@ -17,7 +17,7 @@
 
 | TD | Thème | Lien |
 |:--:|-------|:----:|
-| 01 | Processus KDD et préparation des données | [Voir](./TD1/README.md) |
+| 01 | Processus KDD et préparation des données | [Voir](https://github.com/ItsHaname/AI_data-mining_ML/blob/main/TD1/TD.md) |
 
 *Les prochains TD seront ajoutés au fur et à mesure du semestre.*
 
